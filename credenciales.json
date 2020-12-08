@@ -1,0 +1,6 @@
+{
+    "database" : "bd_covid19",
+    "user" : "postgres",
+    "password" : "123456",
+    "host" : "localhost"
+}
